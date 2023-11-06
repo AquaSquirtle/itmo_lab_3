@@ -1,0 +1,3 @@
+C:/Users/krasn/Desktop/lab_3/labwork3-squirtleKKS/cmake-build-debug/CMakeFiles/labwork3_squirtleKKS.dir
+C:/Users/krasn/Desktop/lab_3/labwork3-squirtleKKS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krasn/Desktop/lab_3/labwork3-squirtleKKS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
